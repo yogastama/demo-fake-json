@@ -1,33 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "response_thermer": {
     "0": {
       "type": 0,
@@ -65,5 +36,21 @@
       "bold ": 0,
       "align": 0
     }
+  },
+  "mt_cari_categories": {
+    "status": "OK",
+    "results": [
+      "Nomor Rekening Bank",
+      "Nomor Identifikasi",
+      "Nomor Polis Asuransi",
+      "Nomor Tagihan",
+      "Nomor Keanggotaan",
+      "Nomor Tiket",
+      "Nomor Berkas Medis",
+      "Nomor Lisensi",
+      "Nomor Akun",
+      "Nomor Resep Obat",
+      "Nomor Tiket Dukungan"
+    ]
   }
 }
