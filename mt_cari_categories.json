@@ -1,0 +1,16 @@
+{
+  "status": "OK",
+  "results": [
+    "Nomor Rekening Bank",
+    "Nomor Identifikasi",
+    "Nomor Polis Asuransi",
+    "Nomor Tagihan",
+    "Nomor Keanggotaan",
+    "Nomor Tiket",
+    "Nomor Berkas Medis",
+    "Nomor Lisensi",
+    "Nomor Akun",
+    "Nomor Resep Obat",
+    "Nomor Tiket Dukungan"
+  ]
+}
